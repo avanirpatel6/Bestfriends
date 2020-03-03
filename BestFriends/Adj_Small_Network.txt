@@ -1,0 +1,9 @@
+,"Kaan Ataman”, "Nick Street”,”Brian Almquist”,”Hui Chen”,”Yunlong Xie”,”Rui Zhang”, "Chris Harris”,”Kamal Lamsal"
+"Kaan Ataman”, 0,1,1,1,1,0,0,0
+“Nick Street”, 1,0,1,0,0,1,0,0
+“Biran Almquist”, 1,1,0,1,1,0,0,1
+“Hui Chen”,1,0,1,0,1,1,1,0
+“Yunlong Xie”,1,0,1,1,0,0,0,0
+“Rui Zhang”,0,1,0,1,1,0,0,0
+“Chris Harris”,0,0,0,1,0,0,0,0
+“Kamal Lamsal”,0,0,1,0,0,0,0,0

@@ -1,0 +1,23 @@
+*Vertices 8
+1 "Kaan Ataman"
+2 "Nick Street"
+3 "Brian Almquist"
+4 "Hui Chen"
+5 "Yunlong Xie"
+6 "Rui Zhang"
+7 "Chris Harris"
+8 "Kamal Lamsal"
+*Edges
+1 2
+1 3
+1 4
+1 5
+3 5
+3 4
+3 2
+4 6
+4 7
+2 6
+2 8
+2 5
+5 6
